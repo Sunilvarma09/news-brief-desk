@@ -29,19 +29,11 @@ def investigate(state: State):
 Follow these instructions:
 
 -Investigate each news item based on its content, id, and source.
-
--If multiple news items describe the SAME real-world event,
-   group them together even if they use different wording.
-
--If news items have a similar topic but describe DIFFERENT
-   real-world events, keep them in different groups.
-
+-If multiple news items describe the SAME real-world event,group them together even if they use different wording.
+-If news items have a similar topic but describe DIFFERENT real-world events, keep them in different groups.
 -For each unique story, provide a short and clear brief.
-
 -Do not put the same news item in multiple groups.
-
--or every group, provide the news IDs and sources that belong
-   to that story.
+-or every group, provide the news IDs and sources that belong to that story.
 
 News items:
 {news_items}
@@ -58,7 +50,6 @@ Return the response using this structure:
     }}d
 ]"""
     result = model.invoke(prompt)
-
     stories_data = json.loads(result.content)
 
     stories = []
