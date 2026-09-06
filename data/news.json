@@ -1,0 +1,85 @@
+
+
+[
+    {
+        "id": "News001",
+        "title": "India Won World Cup",
+        "content": "India won the World Cup in 2026, defeating Australia in the final match. The team showcased exceptional performance throughout the tournament, with standout players making significant contributions to their victory.",
+        "source": "Crix",
+        "published_at": "2026-09-05T08:30:00",
+        "received_at": "2026-09-05T11:30:00"
+    },
+    {   
+        "id": "News002",
+        "title": "Another Cricket World cup for India",
+        "content": "India won the World Cup, defeating Australia in the final match. The team showcased exceptional performance throughout the tournament, with standout players making significant contributions to their victory.",
+        "source": "CricBuzz",
+        "published_at": "2026-09-04T09:30:00",
+        "received_at": "2026-09-04T11:30:00"
+    },
+
+    
+    {
+        "id": "News003",
+        "title": "New Community Library Opens in MVP Colony",
+        "content": "A new community library was opened in MVP Colony on Tuesday. The library has books, newspapers, study tables and a small computer section for local students and residents.",
+        "source": "Vizag Local Desk",
+        "published_at": "2026-09-03T10:00:00",
+        "received_at": "2026-09-03T10:20:00"
+    },
+    {
+        "id": "News005",
+        "title": "Residents Welcome New Reading Centre in MVP Colony",
+        "content": "Residents in MVP Colony now have access to a new reading centre that opened this week. The centre provides books and newspapers and also has space for students to study.",
+        "source": "Coastal City News",
+        "published_at": "2026-09-03T10:25:00",
+        "received_at": "2026-09-03T10:45:00"
+    },
+    {
+        "id": "News006",
+        "title": "MVP Colony Gets New Public Library for Students and Residents",
+        "content": "A public library has started operations in MVP Colony, giving residents a new place to read and study. Local officials said the facility will also provide computer access and educational material.",
+        "source": "Andhra Community Reporter",
+        "published_at": "2026-09-03T11:00:00",
+        "received_at": "2026-09-03T11:20:00"
+    },
+    {
+        "id": "News007",
+        "title": "Free Health Camp Planned Near Seethammadhara",
+        "content": "A free health checkup camp will be held near Seethammadhara this weekend. Doctors will provide basic health checks and consultations for local residents.",
+        "source": "City Health Bulletin",
+        "published_at": "2026-09-02T09:30:00",
+        "received_at": "2026-09-02T10:00:00"
+    },
+    {
+        "id": "News008",
+        "title": "Local Volunteers Organise Blood Donation Drive",
+        "content": "A group of local volunteers is organising a blood donation drive in Seethammadhara next week. The organisers said the event is open to eligible residents and aims to support nearby hospitals.",
+        "source": "Vizag Community News",
+        "published_at": "2026-09-02T11:00:00",
+        "received_at": "2026-09-02T11:25:00"
+    
+    },
+
+    {
+
+        "id": "News009",
+        "title": "Ethical Concerns Raised Over Cancer Research Funding",
+        "content": "A new report highlights growing transparency issues regarding how private donations are allocated across academic medical centers. Researchers express concern that funding discrepancies could delay critical peer reviews and skew study priorities.",
+        "source": "BioEthicsWatch",
+        "published_at": "2023-12-01T00:00:00",
+        "received_at": "2023-12-01T04:00:00"
+
+    },
+
+    {
+        "id": "News010",
+        "title": "Breakthrough in Cancer Research",
+        "content": "Scientists have made a significant breakthrough in cancer research, discovering a new treatment that shows promise in early clinical trials. This advancement could lead to more effective therapies and improved survival rates for patients.",
+        "source": "HealthToday",
+        "published_at": "2026-09-04T14:00:00",
+        "received_at": "2026-09-04T14:20:00"
+
+    }]
+
+    
